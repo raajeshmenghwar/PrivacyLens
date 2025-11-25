@@ -1,2 +1,6 @@
 # dependencies
 node_modules/
+# ignore expo artifacts and local config
+.expo/
+app.json
+eas.json
